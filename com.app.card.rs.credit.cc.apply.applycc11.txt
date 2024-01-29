@@ -43,13 +43,13 @@
   "isGoogleFailShowFacebook":false,
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
-  "isIntro":true,
+  "isIntro":false,
   "priority":"facebook12",
   "showAd":true,
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/",
-  "isOpenWebView":true,
+  "isOpenWebView":false,
   "isAllScreenAppOpenOn":false,
   "webViewUrl":"https://www.sc.com/in/credit-cards/"
 }
