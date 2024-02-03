@@ -1,12 +1,12 @@
 {
-  "appOpenVisible":false,
-  "isNativeAd":false,
-  "isBanner":false,
+  "appOpenVisible":true,
+  "isNativeAd":true,
+  "isBanner":true,
   "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
   "googleBanner":"ca-app-pub-3940256099942544/6300978111",
   "googleInterstitial":"ca-app-pub-3940256099942544/1033173712",
   "googleNative":"ca-app-pub-3940256099942544/2247696110",
-  "isBackAdd":false,
-  "showAd":false,
+  "isBackAdd":true,
+  "showAd":true,
   "interUrl": "https://www.google.com/"
 }
