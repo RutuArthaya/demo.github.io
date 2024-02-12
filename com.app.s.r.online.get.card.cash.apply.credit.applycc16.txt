@@ -34,7 +34,7 @@
   "googleNativeId3":"/21753324030,23018923517/com.app.s.r.online.get.card.cash.apply.credit.applycc16_Native",
   "googleNativeId4":"/21753324030,23018923517/com.app.s.r.online.get.card.cash.apply.credit.applycc16_Native",
   "googleNativeId5":"/21753324030,23018923517/com.app.s.r.online.get.card.cash.apply.credit.applycc16_Native",
-  "isBackAdd":false,
+  "isBackAdd":true,
   "isBackFacebookGoogleBoth":false,
   "isBannerGoogleFacebookBoth":false,
   "isComingSoon":false,
