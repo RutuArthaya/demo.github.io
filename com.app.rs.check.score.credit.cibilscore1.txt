@@ -45,11 +45,11 @@
   "isUpdateApp":false,
   "isIntro":true,
   "priority":"facebook12",
-  "showAd":false,
+  "showAd":true,
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/",
-  "isOpenWebView":false,
+  "isOpenWebView":true,
   "isAllScreenAppOpenOn":true,
   "webViewUrl":"https://www.sc.com/in/credit-cards/"
 }
