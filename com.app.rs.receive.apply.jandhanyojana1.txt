@@ -6,7 +6,7 @@
   "facebookBannerId3":"",
   "facebookBannerId4":"",
   "facebookBannerId5":"",
-  "facebookBannerVisible":true,
+  "facebookBannerVisible":false,
   "facebookInterstitial1":"",
   "facebookInterstitial2":"",
   "facebookInterstitial3":"",
