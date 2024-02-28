@@ -1,5 +1,5 @@
 {
-  "appOpenVisible":true,
+  "appOpenVisible":false,
   "backPriority":"facebook456",
   "facebookBannerId1":"IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
   "facebookBannerId2":"IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
@@ -34,7 +34,7 @@
   "googleNativeId3":"/29636627,22479114759/com.app.applt.card.rs.credit.get.receive.applycc18_native_1",
   "googleNativeId4":"/29636627,22479114759/com.app.applt.card.rs.credit.get.receive.applycc18_native_1",
   "googleNativeId5":"/29636627,22479114759/com.app.applt.card.rs.credit.get.receive.applycc18_native_1",
-  "isBackAdd":true,
+  "isBackAdd":false,
   "isBackFacebookGoogleBoth":false,
   "isBannerGoogleFacebookBoth":false,
   "isComingSoon":false,
@@ -43,13 +43,13 @@
   "isGoogleFailShowFacebook":false,
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
-  "isIntro":true,
+  "isIntro":false,
   "priority":"facebook12",
-  "showAd":true,
+  "showAd":false,
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/",
   "isOpenWebView":false,
-  "isAllScreenAppOpenOn":true,
+  "isAllScreenAppOpenOn":false,
   "webViewUrl":"https://www.sc.com/in/credit-cards/"
 }
