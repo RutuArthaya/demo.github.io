@@ -48,8 +48,5 @@
   "showAd":false,
   "toBeClicked":1,
   "totalIntro":5,
-  "updateUrl":"https://www.google.com/",
-  "isOpenWebView":true,
-  "isAllScreenAppOpenOn":false,
-  "webViewUrl":"https://www.sc.com/in/credit-cards/"
+  "updateUrl":"https://www.google.com/"
 }
