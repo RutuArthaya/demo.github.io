@@ -48,29 +48,5 @@
   "showAd":true,
   "toBeClicked":1,
   "totalIntro":5,
-  "updateUrl":"https://www.google.com/",
-  "template1":"""
-  
-  <body>
-    <header>
-      <h1>${ListConst.fullName}</h1>
-      <p>${ListConst.number}</p>
-    </header>
-    <section id="experience">
-      <h2>Experience</h2>
-      <ul>
-        <li>
-          <h3>${ListConst.companyName}</h3>
-          <p>${ListConst.position}<p>
-          <p>${ListConst.date}</p>
-          <p>${ListConst.description}</p>
-          
-        </li>
-        
-        
-      </ul>
-    </section>
-    </body>
-  
-                  """
+  "updateUrl":"https://www.google.com/"
 }
