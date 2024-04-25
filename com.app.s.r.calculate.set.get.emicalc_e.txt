@@ -1,4 +1,4 @@
 {
 "isNativeAdLoaded":true,
-"googleAppOpenAd":"ca-app-pub-3940256099942544/2247696110"
+"googleNativeId1":"ca-app-pub-3940256099942544/2247696110"
 }
