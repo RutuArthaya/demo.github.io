@@ -1,5 +1,5 @@
 {
-"isNativeAdLoaded.value":true,
+"isNativeAdLoaded":true,
 "googleNativeId1":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeId2":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeId3":"ca-app-pub-3940256099942544/2247696110",
