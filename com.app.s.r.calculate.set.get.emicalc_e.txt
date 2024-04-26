@@ -10,5 +10,11 @@
 "googleBannerId2":"ca-app-pub-3940256099942544/6300978111",
 "googleBannerId3":"ca-app-pub-3940256099942544/6300978111",
 "googleBannerId4":"ca-app-pub-3940256099942544/6300978111",
-"googleBannerId5":"ca-app-pub-3940256099942544/6300978111"
+"googleBannerId5":"ca-app-pub-3940256099942544/6300978111",
+"isInterAdLoaded":true,
+"googleInterstitial1":"ca-app-pub-3940256099942544/1033173712",
+"googleInterstitial2":"ca-app-pub-3940256099942544/1033173712",
+"googleInterstitial3":"ca-app-pub-3940256099942544/1033173712",
+"googleInterstitial4":"ca-app-pub-3940256099942544/1033173712",
+"googleInterstitial5":"ca-app-pub-3940256099942544/1033173712"
 }
