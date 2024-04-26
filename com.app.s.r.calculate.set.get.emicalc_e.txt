@@ -17,5 +17,7 @@
 "googleInterstitial3":"ca-app-pub-3940256099942544/1033173712",
 "googleInterstitial4":"ca-app-pub-3940256099942544/1033173712",
 "googleInterstitial5":"ca-app-pub-3940256099942544/1033173712",
+"googleAppOpen":true,
+"googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
 "showAd":true
 }
