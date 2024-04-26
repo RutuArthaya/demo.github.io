@@ -4,5 +4,11 @@
 "googleNativeId2":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeId3":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeId4":"ca-app-pub-3940256099942544/2247696110",
-"googleNativeId5":"ca-app-pub-3940256099942544/2247696110"
+"googleNativeId5":"ca-app-pub-3940256099942544/2247696110",
+"isBannerAdLoaded":true,
+"googleBannerId1":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId2":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId3":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId4":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId5":"ca-app-pub-3940256099942544/6300978111"
 }
