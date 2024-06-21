@@ -19,6 +19,12 @@
 "googleBannerId4":"ca-app-pub-3940256099942544/6300978111",
 "googleBannerId5":"ca-app-pub-3940256099942544/6300978111",
 "googleBannerVisible":true,
+"googleRewardId1":"ca-app-pub-3940256099942544/5224354917",
+"googleRewardId2":"ca-app-pub-3940256099942544/5224354917",
+"googleRewardId3":"ca-app-pub-3940256099942544/5224354917",
+"googleRewardId4":"ca-app-pub-3940256099942544/5224354917",
+"googleRewardId5":"ca-app-pub-3940256099942544/5224354917",
+"googleRewardVisible":true,
 "showAd":true,
 "showIntro":true
 }
