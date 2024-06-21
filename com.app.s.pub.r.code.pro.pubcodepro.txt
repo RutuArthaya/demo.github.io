@@ -13,6 +13,12 @@
 "googleNativeIOSId4":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeIOSId5":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeVisible":true,
+"googleBannerId1":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId2":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId3":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId4":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerId5":"ca-app-pub-3940256099942544/6300978111",
+"googleBannerVisible":true,
 "showAd":true,
 "showIntro":true
 }
