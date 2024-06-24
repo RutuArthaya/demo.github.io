@@ -12,7 +12,7 @@
 "googleNativeIOSId3":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeIOSId4":"ca-app-pub-3940256099942544/2247696110",
 "googleNativeIOSId5":"ca-app-pub-3940256099942544/2247696110",
-"googleNativeVisible":true,
+"googleNativeVisible":false,
 "googleBannerId1":"ca-app-pub-3940256099942544/6300978111",
 "googleBannerId2":"ca-app-pub-3940256099942544/6300978111",
 "googleBannerId3":"ca-app-pub-3940256099942544/6300978111",
