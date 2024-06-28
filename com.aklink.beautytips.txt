@@ -1,6 +1,6 @@
 {
 "googleAppOpen":"ca-app-pub-3940256099942544/9257395921",
-"googleAppOpenVisible":true,
+"googleAppOpenVisible":false,
 "googleInterIOSId1":"ca-app-pub-3940256099942544/1033173712",
 "googleInterIOSId2":"ca-app-pub-3940256099942544/1033173712",
 "googleInterIOSId3":"ca-app-pub-3940256099942544/1033173712",
